@@ -25,4 +25,4 @@ git remote add origin <url>
 
 git push <origin> <название ветки(main)>
 
-git push origin main
+git push origin main/
